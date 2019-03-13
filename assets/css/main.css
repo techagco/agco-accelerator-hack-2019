@@ -2797,7 +2797,7 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background-color: #98001f;
-			color: #c8ece9;
+			color: #ffffff;
 		}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
@@ -2829,7 +2829,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style1 header.major p {
-				color: #c8ece9;
+				color: #ffffff;
 			}
 
 			.wrapper.style1 label {
@@ -2960,7 +2960,7 @@ input, select, textarea {
 
 		.wrapper.style3 {
 			background-color: #98001f;
-			color: #d3d4e4;
+			color: #ffffff;
 		}
 
 			.wrapper.style3 strong, .wrapper.style3 b {
@@ -2992,7 +2992,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style3 header.major p {
-				color: #d3d4e4;
+				color: #ffffff;
 			}
 
 			.wrapper.style3 label {
@@ -3687,7 +3687,7 @@ input, select, textarea {
 
 			#banner {
 				padding: 7em 3em 5em 3em ;
-				height: auto;
+				height: 1;
 				min-height: 0;
 			}
 
